@@ -13,7 +13,8 @@ Add your timetable
 Execute the program
 
 # CODE
-<!DOCTYPE html>
+```
+
 <html>
  
 <body>
@@ -117,7 +118,7 @@ Execute the program
 </body>
  
 </html>
-
+```
 # OUPUT
 ![Alt text](<Screenshot (2).png>)
 
