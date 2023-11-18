@@ -14,6 +14,7 @@ Execute the program
 
 # CODE
 ```
+<!DOCTYPE html>
 <html>
  
 <body>
